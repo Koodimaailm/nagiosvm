@@ -92,7 +92,7 @@ switchport voice vlan 1 - suunab kõne kanali teenuse kasutatavasse pessa 1.
 # Lingid
 
 [Käskude andmebaas](https://notes.networklessons.com/)
-
+[Käskude andmebaas 2](https://www.netwrix.com/cisco_commands_cheat_sheet.html)
 
 
 
