@@ -89,6 +89,7 @@ switchport mode access -  määrab kaabli liidese oleku käsku.
 ``
 switchport voice vlan 1 - suunab kõne kanali teenuse kasutatavasse pessa 1.
 ``
+# Lingid
 
 [Käskude andmebaas](https://notes.networklessons.com/)
 
